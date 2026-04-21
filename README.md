@@ -10,3 +10,6 @@ Description: Monitor the installation progress as Active Directory Domain Servic
 Step 4: Promote Server to a Domain Controller
 Description: Begin the process to promote the server to a domain controller. Follow the wizard steps to configure the domain name and other settings.
 ![Alt Text](s4.png)
+Step 5: Add User and Set Password
+Description: In the Add User window, enter the user details and specify a secure password.
+![Alt Text](s5.png)
