@@ -4,3 +4,6 @@ Description: Once you’re in Server Manager, you can begin by selecting "Add ro
 Step 2: Select Active Directory and Domain Services
 Description: When you select Active Directory and Domain Services, verify the selection and click Next to continue with the configuration.
 ![Alt Text](s2.png)
+Step 3: Show Installation Progress of Active Directory Domain Services
+Description: Monitor the installation progress as Active Directory Domain Services is being installed. Once complete, proceed to the next step.
+![Alt Text](s3.png)
