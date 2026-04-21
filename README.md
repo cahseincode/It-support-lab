@@ -13,3 +13,6 @@ Description: Begin the process to promote the server to a domain controller. Fol
 Step 5: Add User and Set Password
 Description: In the Add User window, enter the user details and specify a secure password.
 ![Alt Text](s5.png)
+Step 6: View Created User in Manager
+Description: Verify that the user you created is displayed in the manager.
+![Alt Text](s7.png)
