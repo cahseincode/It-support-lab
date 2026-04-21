@@ -16,3 +16,9 @@ Description: In the Add User window, enter the user details and specify a secure
 Step 6: View Created User in Manager
 Description: Verify that the user you created is displayed in the manager.
 ![Alt Text](s7.png)
+Step 7: Create a Group Called Finance
+Description: In the group management section, create a new group named "Finance" and define any group settings or permissions as needed.
+![Alt Text](s8.png)
+Step 8: Reset User Password
+Description: Navigate to the user settings and initiate a password reset process. Enter a new secure password for the user.
+![Alt Text](s9.png)
