@@ -7,3 +7,6 @@ Description: When you select Active Directory and Domain Services, verify the se
 Step 3: Show Installation Progress of Active Directory Domain Services
 Description: Monitor the installation progress as Active Directory Domain Services is being installed. Once complete, proceed to the next step.
 ![Alt Text](s3.png)
+Step 4: Promote Server to a Domain Controller
+Description: Begin the process to promote the server to a domain controller. Follow the wizard steps to configure the domain name and other settings.
+![Alt Text](s4.png)
